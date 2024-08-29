@@ -8,6 +8,6 @@ Register User,Validate Registering an Account by providing the account details,1
 User Login,Validate User is able to login with Valid Cresdentials,1,Open Application URL ,http://demo.opencart.com/,,
 ,,2,Click on 'My Account' Drop menu,NA,,
 ,,3,Click on Login ,,,
-,,4,Provide valid Email & Password,"pavanoltraining@gmail.com
+,,4,Provide valid Email & Password,"gyanashree10@gmail.com
 Password: test123",Login should be successful,
 ,,5,Click on Login button,,,
